@@ -69,7 +69,7 @@ function createDatas(objValue) {
   sectionForm.style.width = '675px';
   sectionForm.style.borderRadius = '5px';
   sectionForm.style.backgroundColor = '#ffefbe';
-  sectionForm.style.padding = '140px 48px';
+  sectionForm.style.padding = '200px 0';
   sectionForm.style.justifyContent = 'center';
   sectionForm.style.alignItems = 'center';
   sectionForm.style.gap = '32px';
